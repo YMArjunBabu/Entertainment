@@ -1,0 +1,1000 @@
+ 1012  cd Desktop/
+ 1013  cd pstnsemanticdemo/
+ 1014  git --origin
+ 1015  git
+ 1016  git log
+ 1017  ssh
+ 1018  ssh 192.168.1.88
+ 1019  ssh vijay@192.168.1.88
+ 1020  cd ..
+ 1021  ssh vijay@192.168.1.88
+ 1022  cd semantic/
+ 1023  bower angular-ui-router
+ 1024  bower install angular-ui-router --save
+ 1025  nmp init
+ 1026  npm init
+ 1027  npm install express
+ 1028  npm install express --save
+ 1029  ls
+ 1030  node server.js 
+ 1031  npm install body-parser --save
+ 1032  node server.js 
+ 1033  cd ..
+ 1034  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/telecomapp.git
+ 1035  cd telecomapp/
+ 1036  bower install
+ 1037  cd ..
+ 1038  ssh 78.47.120.81
+ 1039  ssh vijay@78.47.120.81
+ 1040  ssh processbricks@78.47.120.81
+ 1041  ssh vijay@78.47.120.81
+ 1042  ssh admi@78.47.120.81
+ 1043  ssh admin@78.47.120.81
+ 1044  ssh admin@78.47.120.84
+ 1045  ssh vijay@192.168.1.88
+ 1046  ssh vijay@78.47.120.81
+ 1047  ssh admin@78.47.120.81
+ 1048  ssh hareesh@192.168.1.102
+ 1049  ssh admin@78.47.120.81
+ 1050  ssh vijay@78.47.120.81
+ 1051  sudo ssh vijay@78.47.120.81
+ 1052  ssh rakesh@192.168.1.103
+ 1053  ssh vijay@192.168.1.88
+ 1054  ssh rakesh@192.168.1.103
+ 1055  ssh vijay@78.47.120.81
+ 1056  ssh rakesh@192.168.1.103
+ 1057  ssh rakesh-hp@192.168.1.103
+ 1058  clear
+ 1059  ssh vijay@78.47.120.81
+ 1060  ssh admin@78.47.120.81
+ 1061  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnvirtualhost.git
+ 1062  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnserver.git
+ 1063  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnadmin.git
+ 1064  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/admin1.git
+ 1065  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnapp.git
+ 1066  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnuidemo.git
+ 1067  cd ..
+ 1068  clear
+ 1069  cd Desktop/
+ 1070  ssh vijay@78.47.120.81
+ 1071  cd Desktop/
+ 1072  cd semantic/
+ 1073  node server.js
+ 1074  clear
+ 1075  cd ..
+ 1076  ssh vijay@78.47.120.81
+ 1077  cd semantic/
+ 1078  node server.js
+ 1079  ssh vijay@78.47.120.81
+ 1080  cd ..
+ 1081  ssh vijay@78.47.120.81
+ 1082  ssh admin@78.47.120.81
+ 1083  ssh admin@78.47.207.133
+ 1084  ssh admin@78.47.161.100
+ 1085  ssh vijay@78.47.161.100
+ 1086  ssh vijay@78.47.207.133
+ 1087  cd semantic/
+ 1088  node server.js 
+ 1089  cd ..
+ 1090  ssh admin@78.47.120.81
+ 1091  ssh vijay@78.47.120.81
+ 1092  cd ..
+ 1093  cd Desktop/
+ 1094  cd semantic/
+ 1095  cd ..
+ 1096  ssh root@78.47.120.81
+ 1097  ssh root@78.47.120.84
+ 1098  ssh root@88.198.217.26
+ 1099  exit
+ 1100  root@78.47.120.81
+ 1101  ssh root@78.47.120.81
+ 1102  clear
+ 1103  ssh root@78.47.161.100
+ 1104  ssh root@78.47.120.84
+ 1105  ssh root@88.198.217.26
+ 1106  root@88.198.217.27
+ 1107  ssh root@88.198.217.27
+ 1108  shh root@88.198.217.26
+ 1109  ssh root@88.198.217.26
+ 1110  ssh 78.47.120.81
+ 1111  ssh root@78.47.120.81
+ 1112  exit
+ 1113  ping 192.168.1.88
+ 1114  ssh vijay@192.168.1.88
+ 1115  ssh vijay@development
+ 1116  cd Desktop/
+ 1117  cd semantic/
+ 1118  node server.js 
+ 1119  node server.js
+ 1120  [A
+ 1121  node server.js
+ 1122  cd Desktop/
+ 1123  cd semantic/
+ 1124  node server.js
+ 1125  cd Desktop/
+ 1126  cd semantic/
+ 1127  ls
+ 1128  node server.js
+ 1129  cd ..
+ 1130  cd Rakesh/
+ 1131  cd pstnapp/
+ 1132  ls
+ 1133  node serverd.js 
+ 1134  npm install
+ 1135  node serverd.js 
+ 1136  cd ..
+ 1137  cd pstnserver/
+ 1138  ls
+ 1139  node server.js 
+ 1140  cd ..
+ 1141  ls
+ 1142  cd pstnvirtualhost/
+ 1143  ls
+ 1144  node vhost.js
+ 1145  cd ..
+ 1146  cd telecomapp/
+ 1147  ls
+ 1148  node server.js 
+ 1149  cd ..
+ 1150  ssh vijay@192.168.1.88
+ 1151  cd e
+ 1152  cd Desktop/
+ 1153  cd pstnapp/
+ 1154  ls
+ 1155  bower install
+ 1156  cd ..
+ 1157  cd semantic/
+ 1158  node server.js
+ 1159  cd Desktop/
+ 1160  cd semantic/
+ 1161  ls
+ 1162  node server.js
+ 1163  cd Desktop/
+ 1164  ls
+ 1165  cd semantic/
+ 1166  node server.js
+ 1167  cd ..
+ 1168  ls
+ 1169  cd semantic/
+ 1170  lsa
+ 1171  ls
+ 1172  npm intall
+ 1173  npm install
+ 1174  node server.js
+ 1175  npm install multer --save
+ 1176  node server.js
+ 1177  cd ..
+ 1178  mkdir demo
+ 1179  ls
+ 1180  cd demo/
+ 1181  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnapp.git
+ 1182  bower install
+ 1183  ls
+ 1184  cd pstnapp/
+ 1185  bower install
+ 1186  cd ..
+ 1187  cd semantic/
+ 1188  node server.js
+ 1189  cd ..
+ 1190  ls
+ 1191  cd ..
+ 1192  cd Desktop/
+ 1193  ls
+ 1194  node server
+ 1195  cd semantic/
+ 1196  node server.js
+ 1197  cd ..
+ 1198  cd semantic/
+ 1199  node server.js
+ 1200  cd ..
+ 1201  cd pstnserver/
+ 1202  node server.js 
+ 1203  node pstnWebServer.js 
+ 1204  ls
+ 1205  npm install --save
+ 1206  node pstnWebServer.js 
+ 1207  cd ..
+ 1208  exit
+ 1209  cd D
+ 1210  cd Desktop/
+ 1211  ls
+ 1212  cd semantic/
+ 1213  node sr
+ 1214  node server.js
+ 1215  $ npm install connect --save
+ 1216  node server.js
+ 1217  ping 192.1368.1.88
+ 1218  ping 192.168.1.88
+ 1219  exoit
+ 1220  exit
+ 1221  cd Desktop/
+ 1222  cd semantic/
+ 1223  ls
+ 1224  node server.js
+ 1225  d Desktop/
+ 1226  cd Desktop/
+ 1227  cd semantic/
+ 1228  node server.js
+ 1229  clear
+ 1230  node server.js
+ 1231  clear
+ 1232  node server.js
+ 1233  exit
+ 1234  cd Desktop/
+ 1235  ls
+ 1236  cd semantic/
+ 1237  node server.js
+ 1238  cd Desktop/
+ 1239  cd semn
+ 1240  cd semantic/
+ 1241  ls
+ 1242  npm install busboy --save
+ 1243  node server.js
+ 1244  npm install busboy-body-parser --save
+ 1245  node server.js
+ 1246  hvtvbvjv
+ 1247  fjb
+ 1248  jui
+ 1249  jjfjffghip
+ 1250  k
+ 1251  it
+ 1252  jjgjg
+ 1253  vg
+ 1254  node server.js
+ 1255  npm install fast-csv --save
+ 1256  node server.js
+ 1257  cd Desktop/
+ 1258  cd semantic/
+ 1259  node server.js
+ 1260  cd Desktop/
+ 1261  cd semantic/
+ 1262  ls
+ 1263  node server.js
+ 1264  what should i do
+ 1265  which one i want
+ 1266  ls
+ 1267  how are you
+ 1268  node server.js
+ 1269  cd Desktop/
+ 1270  cd semantic/
+ 1271  ls
+ 1272  node server.js
+ 1273  7895opikl,mtu
+ 1274  nbfbb n nfghbjgbgg
+ 1275  cat
+ 1276  uioplistlid
+ 1277  tapas
+ 1278  bricks
+ 1279  process leaf informatics
+ 1280  -h
+ 1281  uu -j
+ 1282  ls
+ 1283  commNDS HJ
+ 1284  tyuom
+ 1285  clear
+ 1286  ssh 192.168.1.102
+ 1287  ssh hareesh@192.168.1.102
+ 1288  ssh vijay@192.168.1.88
+ 1289  clear
+ 1290  cd Desktop/
+ 1291  node --versin
+ 1292  node --version
+ 1293  ss -version
+ 1294  ssh --version
+ 1295  cd ..
+ 1296  cd Desktop/
+ 1297  ';j878745343 TTTYFDFGD@@@@@@
+ 1298  jq
+ 1299  ';j878745343 TTTYFDFGD@@@@@@
+ 1300  jq
+ 1301  f
+ 1302  tryt
+ 1303  clear
+ 1304  log
+ 1305  cd Desktop/
+ 1306  cd workout/
+ 1307  node server.js 
+ 1308  cd ..
+ 1309  yo angular
+ 1310  cd angular/
+ 1311  yo angular
+ 1312  ls
+ 1313  cd Desktop/
+ 1314  cd semantic/
+ 1315  ls
+ 1316  node server.js
+ 1317  cd ..
+ 1318  cd workout/
+ 1319  node server.js 
+ 1320  cd ..
+ 1321  cd workout/
+ 1322  yo angular
+ 1323  cd ..
+ 1324  cd angular/
+ 1325  ls
+ 1326  yo angular
+ 1327  cd app/
+ 1328  cd server/
+ 1329  node server.js 
+ 1330  cd ..
+ 1331  ls
+ 1332  bower install angular-ui-router --save
+ 1333  cd app/
+ 1334  cd server/
+ 1335  node server.js 
+ 1336  cd Desktop/
+ 1337  cd semantic/
+ 1338  cd ..
+ 1339  cd angular/
+ 1340  ls
+ 1341  cd app/
+ 1342  ls
+ 1343  cd server/
+ 1344  node server.js 
+ 1345  node debug server.js 
+ 1346  cd ..
+ 1347  cd angular/
+ 1348  ls
+ 1349  cd app/
+ 1350  node server
+ 1351  ls
+ 1352  node server.js
+ 1353  cd server/
+ 1354  node server.js 
+ 1355  cd ..
+ 1356  bower install semantic --save
+ 1357  bower uninstall semantic --save
+ 1358  cd ..
+ 1359  bower install semantic --save
+ 1360  cd app/
+ 1361  cd server/
+ 1362  node server.js 
+ 1363  exit
+ 1364  cd Desktop/
+ 1365  cd admin1/
+ 1366  ls
+ 1367  bower install
+ 1368  cd Desktop/
+ 1369  cd semantic/
+ 1370  ls
+ 1371  node sr
+ 1372  node server.js
+ 1373  cd ..
+ 1374  ls
+ 1375  cd pstnserver/
+ 1376  ls
+ 1377  node pstnWebServer.js 
+ 1378  node server.js 
+ 1379  node pstnWebServer.js 
+ 1380  cd ..
+ 1381  cd angular/
+ 1382  ls
+ 1383  cd app/
+ 1384  ls
+ 1385  cd server/
+ 1386  node server.js 
+ 1387  cd Desktop/
+ 1388  ls
+ 1389  cd angular/
+ 1390  l
+ 1391  ls
+ 1392  cd app/
+ 1393  ls
+ 1394  cd server/
+ 1395  ls
+ 1396  node server.js 
+ 1397  cd Downloads/
+ 1398  ls
+ 1399  cd app1
+ 1400  bower install
+ 1401  bower install angular
+ 1402  bower install angular-ui-grid
+ 1403  bower install semantic-ui
+ 1404  bower install semantic
+ 1405  bower install jquery
+ 1406  bower install angular-animate
+ 1407  bower install csv-js
+ 1408  bower install pdfmake
+ 1409  bower install ngStorage
+ 1410  bower install ng-file-upload
+ 1411  bower install lodash
+ 1412  bower install jsen
+ 1413  bower install ngstorage
+ 1414  cd Desktop/
+ 1415  ls
+ 1416  cd telecomapp/
+ 1417  git --origin
+ 1418  git -origin
+ 1419  git -branch
+ 1420  git remote show origin
+ 1421  cd ..
+ 1422  cd pstnuidemo/
+ 1423  bower install
+ 1424  cd ..
+ 1425  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/sematicdemo.git
+ 1426  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevalv3semantic.git
+ 1427  cd semanticdemo
+ 1428  ls
+ 1429  cd sematicdemo/
+ 1430  ls
+ 1431  bower install
+ 1432  cd ..
+ 1433  ssh root@88.198.217.26
+ 1434  ssh root@88.198.217.27
+ 1435  ssh root@78.47.207.133
+ 1436  ssh-keygen -R 78.47.207.133
+ 1437  ssh root@78.47.207.133
+ 1438  ssh root @78.47.161.100
+ 1439  ssh root@78.47.161.100
+ 1440  ssh-keygen -R 78.47.161.100
+ 1441  ssh root@78.47.161.100
+ 1442  sudo apt-get update
+ 1443  ssh root@78.47.207.133
+ 1444  ssh root@88.198.217.26
+ 1445  ssh root@88.198.217.27
+ 1446  ssh root@78.47.120.84
+ 1447  $ ssh-keygen -l -f /etc/ssh/ssh_host_rsa_key
+ 1448  $ ssh-keygen -l -f /etc/ssh
+ 1449  0
+ 1450  down vote
+ 1451  ssh -q
+ 1452  ssh root@78.47.120.84
+ 1453  ssh-keygen -R {78.47.12.84}
+ 1454  ssh-keygen -R {78.47.207.133}
+ 1455  ssh-keygen -R {78.47.161.100}
+ 1456  ssh-keygen -R {78.47.120.84}
+ 1457  ssh root@78.47.120.84
+ 1458  rm /home/tapas/.ssh/known_hosts
+ 1459  ssh root@78.47.120.84
+ 1460  ssh root@78.47.207.133
+ 1461  ssh root@78.47.161.100
+ 1462  ssh root@88.198.217.26
+ 1463  ssh root@88.198.217.27
+ 1464  ssh root@78.47.120.81
+ 1465  ssh root@78.47.207.133
+ 1466  cd Desktop/
+ 1467  cd coinevalv3semantic/
+ 1468  bower install
+ 1469  cd ..
+ 1470  ssh root@78.47.120.81
+ 1471  ssh vijay@198.162.1.88
+ 1472  ssh vijay@192.168.1.88
+ 1473  exit
+ 1474  cd Desktop/
+ 1475  ls
+ 1476  ssh vijay@192.168.1.88
+ 1477  root@78.47.120.81
+ 1478  ssh root@78.47.120.81
+ 1479  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1480  cd pstnsemanticdemo/
+ 1481  bower intsall
+ 1482  bower install
+ 1483  cd ..
+ 1484  ssh vijay@192.168.1.88
+ 1485  ssh root@78.47.120.81
+ 1486  ssh vijay@192.168.1.88
+ 1487  ssh vijay@192.168.1.81
+ 1488  cd ..
+ 1489  \cd ..
+ 1490  ssh viajy@192.168.1.88
+ 1491  ssh vijay@192.168.1.88
+ 1492  ssh root@78.47.120.81
+ 1493  cd Desktop/
+ 1494  ls
+ 1495  cd pstnsemanticdemo/
+ 1496  ls
+ 1497  node server.js 
+ 1498  node semanticDemo.js 
+ 1499  npm install
+ 1500  node server.js 
+ 1501  ls
+ 1502  node semanticDemo.js 
+ 1503  ssh root@78.47.120.81
+ 1504  ssh vijay@192.168.1.88
+ 1505  ssh root@78.47.120.81
+ 1506  cd Desktop/
+ 1507  cd pstnsemanticdemo/
+ 1508  l
+ 1509  ls
+ 1510  node semanticDemo.js 
+ 1511  cd Desktop/
+ 1512  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1513  cd pstnsemanticdemo/
+ 1514  bower install
+ 1515  ssh root@78.41.12.81
+ 1516  ssh root@78.41.120.81
+ 1517  ssh root@78.47.120.81
+ 1518  clear
+ 1519  ssh root@78.47.120.81
+ 1520  cd Desktop/
+ 1521  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1522  cd pstnsemanticdemo/
+ 1523  bower install
+ 1524  cd ~
+ 1525  ssh root@78.47.120.81
+ 1526  ssh root@72.47.12.81
+ 1527  ssh root@78.47.120.81
+ 1528  exit
+ 1529  ssh root@78.47.120.81
+ 1530  cd Desktop/
+ 1531  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1532  cd pstnsemanticdemo/
+ 1533  bower install
+ 1534  ssh root@78.47.120.81
+ 1535  exit
+ 1536  ssh root@78.47.120.81
+ 1537  exit
+ 1538  ssh root@78.47.120.81
+ 1539  exit
+ 1540  ssh root@78.47.120.81
+ 1541  exit
+ 1542  cd Desktop/
+ 1543  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1544  cd pstnsemanticdemo/
+ 1545  bower install
+ 1546  ssh root@78.47.120.81
+ 1547  cd Desktop/
+ 1548  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1549  cd pstnsemanticdemo/
+ 1550  bower install
+ 1551  ssh root@78.47.120.81
+ 1552  bower install jsen --save
+ 1553  ssh root@78.47.120.81
+ 1554  exit
+ 1555  ssh root@78.47.120.81
+ 1556  exit
+ 1557  cd Desktop/
+ 1558  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1559  cd pstnsemanticdemo/
+ 1560  bower install
+ 1561  ssh root@78.47.120.81
+ 1562  cd Desktop/
+ 1563  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1564  cd pstnsemanticdemo/
+ 1565  bower install
+ 1566  ssh root@78.47.120.81
+ 1567  exit
+ 1568  ssh root@78.47.120.81
+ 1569  exit
+ 1570  ssh root@78.47.120.81
+ 1571  cd Desktop/
+ 1572  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1573  cd pstnsemanticdemo/
+ 1574  bower install
+ 1575  cd ..
+ 1576  cd pstnsemanticdemo/
+ 1577  ssh root@78.47.120.81
+ 1578  exit
+ 1579  cd Desktop/
+ 1580  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1581  cd pstnsemanticdemo/
+ 1582  bower install
+ 1583  cd Desktop/
+ 1584  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1585  cd pstnsemanticdemo/
+ 1586  bower install
+ 1587  ssh root@192.168.1.88
+ 1588  cd ..
+ 1589  ssh root@192.168.1.81
+ 1590  ssh vijay@192.168.1.88
+ 1591  ssh vijay@192.168.1.81
+ 1592  ssh root@78.47.120.81
+ 1593  exit
+ 1594  sudo apt-get install pinta
+ 1595  exit
+ 1596  ssh root@78.47.120.81
+ 1597  exit
+ 1598  ssh root@78.47.120.81
+ 1599  exit
+ 1600  ssh root@78.47.120.81
+ 1601  exit
+ 1602  ssh root@78.47.120.81
+ 1603  exit
+ 1604  cd Desktop/
+ 1605  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1606  cd pstnsemanticdemo/
+ 1607  bower install
+ 1608  ssh root@78.47.120.81
+ 1609  exit
+ 1610  ssh root@78.47.120.81
+ 1611  exit
+ 1612  ssh root@78.47.120.81
+ 1613  exit
+ 1614  cd Desktop/
+ 1615  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1616  cd pstnsemanticdemo/
+ 1617  bower install
+ 1618  ssh root@78.47.120.81
+ 1619  cd ..
+ 1620  ls
+ 1621  cd FileReader/
+ 1622  bower init
+ 1623  cd Desktop/
+ 1624  cd FileReader/
+ 1625  npm init
+ 1626  node index.js
+ 1627  cd Desktop/
+ 1628  cd FileReader/
+ 1629  node node.js 
+ 1630  clear
+ 1631  clear
+ 1632  node node.js 
+ 1633  ssh root@78.47.120.81
+ 1634  cd Desktop/
+ 1635  cd FileReader/
+ 1636  ls
+ 1637  node pdfFileCreator.js 
+ 1638  npm install pdf-text-extract --save
+ 1639  node pdfFileCreator.js 
+ 1640  exit
+ 1641  cd Desktop/
+ 1642  cd FileReader/
+ 1643  ls
+ 1644  node pdfFileCreator.js 
+ 1645  cd Desktop/
+ 1646  cd FileReader/
+ 1647  node pdfFileCreator.js 
+ 1648  npm install pdfkit --save
+ 1649  node pdfFileCreator.js 
+ 1650  node pdfDynamic.js 
+ 1651  clear
+ 1652  exit
+ 1653  cd Desktop/
+ 1654  cd FileReader/
+ 1655  ls
+ 1656  node pdfDynamic.js 
+ 1657  cd ..
+ 1658  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1659  cd pstnsemanticdemo/
+ 1660  bower install
+ 1661  cd ..
+ 1662  cd FileReader/
+ 1663  ls
+ 1664  node pdfFileAppendContent.js 
+ 1665  cd Desktop/
+ 1666  mkdir new
+ 1667  ls
+ 1668  cd new/
+ 1669  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1670  cd pstnsemanticdemo/
+ 1671  bower install
+ 1672  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/processtimerui.git
+ 1673  cd processtimerui/
+ 1674  ls
+ 1675  cd ..
+ 1676  ls
+ 1677  rm -rf processtimerui/
+ 1678  ls
+ 1679  cd ..
+ 1680  ssh root@78.47.120.81
+ 1681  cd Desktop/
+ 1682  cd Projects2016AsonOct/
+ 1683  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/processtimerui.git
+ 1684  exit
+ 1685  ssh rakesh-hp@192.168.1.106
+ 1686  ssh
+ 1687  ssh --version
+ 1688  ssh -version
+ 1689  ssh rakesh@192.168.1.106
+ 1690  ssh Rakesh@192.168.1.106
+ 1691  ssh root@192.168.1.106
+ 1692  ssh root@78.47.120.81
+ 1693  cd Desktop/
+ 1694  cd new/
+ 1695  cd pstnsemanticdemo/
+ 1696  bower install --save-dev angular-translate
+ 1697  exit
+ 1698  ssh root@78.47.120.81
+ 1699  cd Desktop/
+ 1700  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1701  cd pstnsemanticdemo/
+ 1702  boer install
+ 1703  bower intsall
+ 1704  bower install
+ 1705  ssh root@78.47.120.81
+ 1706  exit
+ 1707  ssh root@78.47.120.81
+ 1708  xit
+ 1709  clear
+ 1710  ssh root@78.47.120.81
+ 1711  cd Desktop/
+ 1712  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1713  ls
+ 1714  cd pstnsemanticdemo
+ 1715  ls
+ 1716  bower intsall
+ 1717  bower install
+ 1718  ssh root@78.47.120.81
+ 1719  exit
+ 1720  ssh root@78.47.120.81
+ 1721  ls
+ 1722  cd ..
+ 1723  ls
+ 1724  cd ..
+ 1725  ls
+ 1726  cd dev/
+ 1727  ls
+ 1728  cd ..
+ 1729  ls
+ 1730  cd bin/
+ 1731  ls
+ 1732  cd ..
+ 1733  ls
+ 1734  cd media/
+ 1735  ls
+ 1736  cd tapas/
+ 1737  ls
+ 1738  cd Arjun/
+ 1739  ls
+ 1740  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevalv3semantic.git
+ 1741  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/authentication.git
+ 1742  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1743  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/processtimerui.git
+ 1744  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnvirtualhost.git
+ 1745  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/sematicdemo.git
+ 1746  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/admin1.git
+ 1747  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnapp.git
+ 1748  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnserver.git
+ 1749  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/pstnadmin.git
+ 1750  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/telecomapp.git
+ 1751  cs admin1/
+ 1752  cd admin1/
+ 1753  bower install
+ 1754  cd ..
+ 1755  cd coinevalv3semantic/
+ 1756  bower install
+ 1757  cd ..
+ 1758  cd processtimerui/
+ 1759  bower install
+ 1760  exit
+ 1761  ssh root@78.47.120.81
+ 1762  exit
+ 1763  cd Desktop/
+ 1764  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevaldashboard.git
+ 1765  ssh root@78.47.120.81
+ 1766  cd Desktop/
+ 1767  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevaldashboard.git
+ 1768  cd Desktop/
+ 1769  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevaldashboard.git
+ 1770  ls
+ 1771  cd Desktop/
+ 1772  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevaldashboard.git
+ 1773  cd coinevaldashboard/
+ 1774  bower install
+ 1775  cd Desktop/
+ 1776  ssh root@78.47.120.81
+ 1777  exit
+ 1778  ssh root@78.47.120.81
+ 1779  cd Desktop/
+ 1780  cd pstnsemanticdemo/
+ 1781  ls
+ 1782  node semanticDemo.js 
+ 1783  npm install 
+ 1784  node semanticDemo.js 
+ 1785  ce `
+ 1786  cd ~
+ 1787  exit
+ 1788  q
+ 1789  q:
+ 1790  exit
+ 1791  quit
+ 1792  ssh root@78.47.120.81
+ 1793  cd Desktop/
+ 1794  cd pstnsemanticdemo/
+ 1795  ls
+ 1796  git --origin
+ 1797  git --info-path
+ 1798  cd~
+ 1799  cd ~
+ 1800  cd Desktop/
+ 1801  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1802  cd pstnsemanticdemo/
+ 1803  bower install
+ 1804  ssh root@78.47.120.81
+ 1805  exit
+ 1806  cd Desktop/
+ 1807  mkdir  FileHandlerProject
+ 1808  cd FileHandlerProject/
+ 1809  yo angular file
+ 1810  ls
+ 1811  yo angular fileApp
+ 1812  cd ..
+ 1813  git clone https://ArjunBabuYM@bitbucket.org/Processbricks/pstnsemanticdemo.git
+ 1814  cd pstnsemanticdemo/
+ 1815  bower install
+ 1816  ssh root@78.47.120.81
+ 1817  cd ..
+ 1818  ssh root@78.47.120.81
+ 1819  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/coinevaldashboard.git
+ 1820  cd coinevaldashboard/
+ 1821  bower install
+ 1822  node -v
+ 1823  ssh root@78.47.120.81
+ 1824  ls
+ 1825  cd ..
+ 1826  ssh vijay8888@192.168.122.1
+ 1827  ssh devserver@192.168.122.1
+ 1828  cd Desktop/
+ 1829  cd pstnsemanticdemo/
+ 1830  ls
+ 1831  node semanticDemo.js 
+ 1832  npm install
+ 1833  node semanticDemo.js 
+ 1834  ssh root@78.47.120.81
+ 1835  cd Desktop/
+ 1836  ls
+ 1837  cd FileHandlerProject/
+ 1838  ls
+ 1839  node server.js 
+ 1840  npm install multer --save
+ 1841  node server.js 
+ 1842  npm install express --save
+ 1843  node server.js 
+ 1844  ssh root@78.47.120.81
+ 1845  ezxit
+ 1846  exit
+ 1847  node -v
+ 1848  sudo n 6.3
+ 1849  node semanticDemo.js 
+ 1850  exit
+ 1851  ssh root@78.47.120.81
+ 1852  cd Desktop/
+ 1853  npm --version
+ 1854  sudo apt-get update
+ 1855  node --version
+ 1856  node
+ 1857  npm
+ 1858  npm update
+ 1859  npm --version
+ 1860  node --version
+ 1861  cd pstnsemanticdemo/
+ 1862  node semanticDemo.js 
+ 1863  sudo npm install n -g
+ 1864  nvm --version
+ 1865  sudo n stable
+ 1866  node -v
+ 1867  curl -sL https://deb.nodesource.com/setup_6.3 | sudo -E bash -
+ 1868  curl -sL https://deb.nodesource.com/setup_6.3
+ 1869  curl -sL https://deb.nodesource.com/setup_6.3 | sudo -E bash -
+ 1870  exit
+ 1871  cd Desktop/
+ 1872  cd pstnsemanticdemo/
+ 1873  node semanticDemo.js 
+ 1874  cd ..
+ 1875  ssh root@78.47.120.81
+ 1876  it
+ 1877  sudo apt-get install g++
+ 1878  sudo apt-get install node-gyp
+ 1879  node semanticDemo.js 
+ 1880  exit
+ 1881  cd Desktop/
+ 1882  cd pstnsemanticdemo/
+ 1883  ls
+ 1884  node semanticDemo.js 
+ 1885  ssh vijay@192.168.1.88
+ 1886  ssh vijay@192.168.1.81
+ 1887  ssh vijay@192.168.1.88
+ 1888  node semanticDemo.js 
+ 1889  clear
+ 1890  node semanticDemo.js 
+ 1891  cd Desktop/
+ 1892  cd pstnsemanticdemo/
+ 1893  node semanticDemo.js 
+ 1894  clear
+ 1895  node semanticDemo.js 
+ 1896  cd ~
+ 1897  ls
+ 1898  cd TELECOMFILES/
+ 1899  ls
+ 1900  cd company1/
+ 1901  ls
+ 1902  cd ORI/
+ 1903  ls
+ 1904  cd 2012-2013/
+ 1905  ls
+ 1906  cd Q1
+ 1907  ls
+ 1908  cd AO
+ 1909  ls
+ 1910  cd Invoices/
+ 1911  ls
+ 1912  cd PDF/
+ 1913  ls
+ 1914  node semanticDemo.js 
+ 1915  cd~
+ 1916  cd ~
+ 1917  cd Ce
+ 1918  cd Desktop/
+ 1919  cd pstnsemanticdemo/
+ 1920  node semanticDemo.js 
+ 1921  exit
+ 1922  ssh root@78.47.120.81
+ 1923  cd Desktop/
+ 1924  cd pstnsemanticdemo/
+ 1925  node semanticDemo.js 
+ 1926  clear
+ 1927  node semanticDemo.js 
+ 1928  ssh root@78.47.120.81
+ 1929  cd Desktop/
+ 1930  cd pstnsemanticdemo/
+ 1931  node semanticDemo.js 
+ 1932  ssh root@78.47.120.81
+ 1933  exit
+ 1934  cd Desktop/
+ 1935  git clone https://ArjunBabuYM@bitbucket.org/processbricksadmins/processtimerui.git
+ 1936  cd processtimerui/
+ 1937  bower install
+ 1938  exit
+ 1939  cd Desktop/
+ 1940  cd pstnsemanticdemo/
+ 1941  node semanticDemo.js 
+ 1942  clear
+ 1943  node semanticDemo.js 
+ 1944  clear
+ 1945  node semanticDemo.js 
+ 1946  cd ..
+ 1947  cd Desktop/
+ 1948  cd myWebApp/
+ 1949  ls
+ 1950  node server.js 
+ 1951  cd .
+ 1952  cd ..
+ 1953  cd pstn
+ 1954  pstnsemanticdemo/
+ 1955  cd pstnsemanticdemo/
+ 1956  node semanticDemo.js 
+ 1957  cd..
+ 1958  cd ..
+ 1959  ls
+ 1960  clear
+ 1961  cd ..
+ 1962  ls
+ 1963  yo angular
+ 1964  cd Desktop/
+ 1965  cd pstnsemanticdemo/
+ 1966  node semanticDemo.js 
+ 1967  exit
+ 1968  cd Desktop/
+ 1969  cd pstnsemanticdemo/
+ 1970  node semanticDemo.js 
+ 1971  ssh root@78.47.120.81
+ 1972  node semanticDemo.js 
+ 1973  exit
+ 1974  cd ..
+ 1975  ssh root@78.47.120.81
+ 1976  cd Desktop/
+ 1977  cd pstnsemanticdemo/
+ 1978  node semanticDemo.js 
+ 1979  ssh root@78.47.120.81
+ 1980  node semanticDemo.js 
+ 1981  ssh root@78.47.120.81
+ 1982  node semanticDemo.js 
+ 1983  clear
+ 1984  node semanticDemo.js 
+ 1985  ssh root@78.47.120.81
+ 1986  cd Desktop/
+ 1987  cd pstnsemanticdemo/
+ 1988  node semanticDemo.js 
+ 1989  cd Desktop/
+ 1990  cd pstnsemanticdemo/
+ 1991  node semanticDemo.js 
+ 1992  exit
+ 1993  cd ..
+ 1994  https://github.com/YMArjunBabu/Entertainment.git
+ 1995  git clone https://github.com/YMArjunBabu/Entertainment.git
+ 1996  cd Entertainment/
+ 1997  yo angular ent
+ 1998  ls
+ 1999  cd spec
+ 2000  ls
+ 2001  cd test/
+ 2002  ls
+ 2003  karma run karma.conf.js 
+ 2004  cd ..
+ 2005  ls
+ 2006  gulp run gulpfile.js 
+ 2007  npm install gulp --save
+ 2008  gulp run gulpfile.js 
+ 2009  history
+ 2010  cat ~/.bash_history
+ 2011  history > print.txt
