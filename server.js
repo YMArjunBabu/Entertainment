@@ -20,7 +20,7 @@ app.get('/',function(req,res){
 var server = app.listen('8026',function(){
 //  var host = server.address().address;
 //  var port = server.address().port;
-  var host = "192.168.1.88";
+  var host = "127.0.0.1";
   var port = "8026";
   console.log("myWebApp is listenting at http://%s:%s",host,port);
 });
