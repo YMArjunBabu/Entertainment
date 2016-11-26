@@ -16,7 +16,8 @@ var entApp = angular
     'ngMessages',
     'ngResource',
     'ngRoute',
-    'ngSanitize'
+    'ngSanitize',
+    'ui.router'
   ]);
   entApp.config(function ($routeProvider) {
     $routeProvider
