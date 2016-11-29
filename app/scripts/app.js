@@ -19,19 +19,18 @@ var entApp = angular
     'ngSanitize',
     'ui.router'
   ]);
-  entApp.config(function ($routeProvider) {
-    $routeProvider
-      .when('/', {
+  entApp.config(function ($stateProvider,$urlRouterProvider) {
+    $urlRouterProvider.otherwise('/');
+    $stateProvider
+      .state('/', {
         templateUrl: 'views/main.html',
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
-      .when('/about', {
+      .state('about', {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
-      .otherwise({
-        redirectTo: '/'
-      });
+
   });
