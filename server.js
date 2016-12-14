@@ -8,8 +8,8 @@ var cluster = new couchbase.Cluster('192.168.1.88');
 var path = require('path');
 var N1qlQuery = require('couchbase').N1qlQuery;
 console.log(__dirname);
-app.use(express.static(path.normalize(__dirname+'/')));
-app.use(express.static(path.normalize(__dirname+'/app')));
+app.use('/app',express.static(__dirname + '/app'));
+app.use('/bower_components',  express.static(__dirname + '/bower_components'));
 app.use(bodyParser.json());
 var urlEncodedParser = bodyParser.urlencoded({ extended : false});
 
