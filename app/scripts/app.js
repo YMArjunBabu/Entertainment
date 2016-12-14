@@ -23,12 +23,12 @@ var entApp = angular
     $urlRouterProvider.otherwise('/');
     $stateProvider
       .state('/', {
-        templateUrl: 'views/main.html',
+        templateUrl: '/app/views/main.html',
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
       .state('about', {
-        templateUrl: 'views/about.html',
+        templateUrl: '/app/views/about.html',
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
