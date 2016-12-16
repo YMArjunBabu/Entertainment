@@ -1,1 +1,12 @@
-<div ng-controller="AboutCtrl">This is the about view.</div>
+<div ng-controller="AboutCtrl">
+  <div class="ui grid">
+    <div class="four wide column"><img src={{objMovie.url}}></div>
+    <div class="four wide column">{{objMovie.name}}</div>
+
+    <div class="four wide column"><textarea ng-model="strComments"></textarea>
+      <div class="ui small blue button" ng-click="save()"><i class="share icon"></i></div>
+    </div>
+
+    <div class="four wide column"><div class="ui large star rating"></div></div>
+  </div>
+</div>
