@@ -20,17 +20,15 @@ var entApp = angular
     'ui.router'
   ]);
   entApp.config(function ($stateProvider,$urlRouterProvider) {
-    $urlRouterProvider.otherwise('/');
+    $urlRouterProvider.otherwise('main');
     $stateProvider
-      .state('/', {
-        templateUrl: '/app/views/main.html',
-        controller: 'MainCtrl',
-        controllerAs: 'main'
-      })
+      .state('main', {
+        url:'/main',
+        templateUrl: '/app/views/main.html'
+    })
       .state('about', {
-        templateUrl: '/app/views/about.html',
-        controller: 'AboutCtrl',
-        controllerAs: 'about'
+        url:'/about',
+        templateUrl: '/app/views/about.html'
       })
 
   });
