@@ -13,6 +13,7 @@ function AboutCtrl($scope,$state,$http,srvcCom) {
     'Karma'
   ];
   $scope.objMovie = srvcCom.getObj();
+  $scope.objMovie.numMovieRating = 0;
   $scope.jqueryRating = function(){
      $('.ui.rating').rating({
        onRate : function(value){
@@ -25,20 +26,34 @@ function AboutCtrl($scope,$state,$http,srvcCom) {
   $scope.jqueryRating();
   $scope.save = function(){
     $scope.objMovie.strMovieComments = $scope.strComments;
-
     $http({
-  method: 'POST',
-  url: 'http://127.0.0.1:8026/saveComments',
+      method: 'POST',
+      url: 'http://192.168.1.88:8026/saveComments',
       data: $scope.objMovie
-}).then(function successCallback(response) {
+    }).then(function successCallback(response) {
       console.log(response);
-    // this callback will be called asynchronously
-    // when the response is available
-  }, function errorCallback(response) {
-    // called asynchronously if an error occurs
-    // or server returns response with an error status.
-  });
+      if(response.data.value.comments){
+        $scope.res = response.data.value.comments;
+      }
+    }, function errorCallback(response) {
+
+    });
   }
+  $scope.getPreviousCommenst = function(){
+    $http({
+      method: 'POST',
+      url: 'http://192.168.1.88:8026/previousComments',
+      data: $scope.objMovie
+    }).then(function successCallback(response) {
+      console.log(response);
+      if(response.data.value.comments){
+        $scope.res = response.data.value.comments;
+      }
+    }, function errorCallback(response) {
+
+    });
+  }
+  $scope.getPreviousCommenst();
 }
 AboutCtrl.$inject = ['$scope','$state','$http','srvcCom'];
 entApp.controller('AboutCtrl',AboutCtrl);

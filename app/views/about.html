@@ -3,7 +3,13 @@
     <div class="four wide column"><img src={{objMovie.url}}></div>
     <div class="four wide column">{{objMovie.name}}</div>
 
-    <div class="four wide column"><textarea ng-model="strComments"></textarea>
+    <div class="four wide column">
+      <div ng-repeat="val in res track by $index">
+        <div class="one wide column"><span>{{val.userName}}</span></div>
+         <div class="two wide column"><textarea disabled="disabled">{{val.strMovieComments}}</textarea></div>
+         <div class="one wide column"><span class="ui large star rating" data-rating={{val.numMovieRating}}></span></div>
+      </div>
+      <textarea ng-model="strComments"></textarea>
       <div class="ui small blue button" ng-click="save()"><i class="share icon"></i></div>
     </div>
 

@@ -8,6 +8,7 @@ function MainCtrl($scope,$state,srvcCom) {
   $scope.comment = function(strImagePath,strName){
     objCurr.name = strName;
     objCurr.url = strImagePath;
+    objCurr.userName = "";
     srvcCom.setObj(objCurr);
     $state.go('about');
   };
