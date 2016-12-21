@@ -7,3 +7,42 @@
   height: auto;
   opacity: 1;
 }
+/*
+#bodyt {
+
+    height: 300px;
+  display: block;
+    overflow-y: scroll;
+}
+*/
+#bodyt {
+        height: 150px;
+        display: inline-block;
+        width: 100%;
+        overflow-y:scroll;
+    }
+/*
+#bodyt{
+    height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+*/
+/*
+#wrapper {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  min-width: auto;
+  min-height: auto;
+  overflow-y: scroll !important;
+}
+*/
+
+/*
+body {
+  overflow-x: scroll !important;
+}
+*/

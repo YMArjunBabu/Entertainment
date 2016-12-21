@@ -1,18 +1,23 @@
 <div ng-controller="AboutCtrl">
-  <div class="ui grid">
-    <div class="four wide column"><img src={{objMovie.url}}></div>
-    <div class="four wide column">{{objMovie.name}}</div>
-
-    <div class="four wide column">
-      <div ng-repeat="val in res track by $index">
-        <div class="one wide column"><span>{{val.userName}}</span></div>
-         <div class="two wide column"><textarea disabled="disabled">{{val.strMovieComments}}</textarea></div>
-         <div class="one wide column"><span class="ui large star rating" data-rating={{val.numMovieRating}}></span></div>
-      </div>
-      <textarea ng-model="strComments"></textarea>
-      <div class="ui small blue button" ng-click="save()"><i class="share icon"></i></div>
+  <div class="ui horizontal segments" style="height: 250px; overflow: auto;">
+  <div class="ui segment">
+    <img src={{objMovie.url}}>
     </div>
-
-    <div class="four wide column"><div class="ui large star rating"></div></div>
+    <div class="ui segment">
+      <p>Movie Content</p>
+    </div>
+    <div class="ui segment">
+      <table class="ui stripped table">
+        <tbody id="bodyt">
+          <tr ng-repeat="val in res track by $index">
+            <td><textarea disabled="disabled">{{val.strMovieComments}}</textarea></td>
+            <td class="ui rating"></td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="ui rating"></div>
+      <textarea ng-model="strComments"></textarea>
+      <button class = "ui button" ng-click="save()">comment</button>
+    </div>
   </div>
 </div>
