@@ -28,7 +28,7 @@ function AboutCtrl($scope,$state,$http,srvcCom) {
     $scope.objMovie.strMovieComments = $scope.strComments;
     $http({
       method: 'POST',
-      url: 'http://127.0.0.1:8026/saveComments',
+      url: 'http://192.168.1.88:8026/saveComments',
       data: $scope.objMovie
     }).then(function successCallback(response) {
       console.log(response);
@@ -42,7 +42,7 @@ function AboutCtrl($scope,$state,$http,srvcCom) {
   $scope.getPreviousCommenst = function(){
     $http({
       method: 'POST',
-      url: 'http://127.0.0.1:8026/previousComments',
+      url: 'http://192.168.1.88:8026/previousComments',
       data: $scope.objMovie
     }).then(function successCallback(response) {
       console.log(response);
