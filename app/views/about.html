@@ -8,16 +8,32 @@
     </div>
     <div class="ui segment">
       <table class="ui stripped table">
+        <thead>
+          <tr>
+            <th>Comments</th>
+          </tr>
+        </thead>
         <tbody id="bodyt">
           <tr ng-repeat="val in res track by $index">
+            <td>User : {{val.userName}}</td>
             <td><textarea disabled="disabled">{{val.strMovieComments}}</textarea></td>
-            <td class="ui rating"></td>
+            <td>Rating : {{val.numMovieRating}}/5</td>
           </tr>
         </tbody>
       </table>
-      <div class="ui rating"></div>
-      <textarea ng-model="strComments"></textarea>
-      <button class = "ui button" ng-click="save()">comment</button>
+      Enter Your Name :
+      <div class="ui row">
+        <input type="text" ng-model="strUserName">
+      </div>
+      <div class="ui row">
+        <textarea ng-model="strComments"></textarea>
+        <button class = "ui floated button" ng-click="save()">comment</button>
+      </div>
+      Your Rating :
+      <div class="ui row">
+        <div class="ui rating" data-max-rating="5" id="rate"></div>
+      </div>
     </div>
   </div>
+  <toaster-container></toaster-container>
 </div>

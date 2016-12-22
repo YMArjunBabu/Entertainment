@@ -17,7 +17,8 @@ var entApp = angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ui.router'
+    'ui.router',
+    'toaster'
   ]);
   entApp.config(function ($stateProvider,$urlRouterProvider) {
     $urlRouterProvider.otherwise('main');
