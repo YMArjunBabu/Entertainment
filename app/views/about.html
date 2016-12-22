@@ -1,10 +1,11 @@
 <div ng-controller="AboutCtrl">
-  <div class="ui horizontal segments" style="height: 250px; overflow: auto;">
+<!--  style="height: 250px; overflow: auto;"-->
+  <div class="ui horizontal segments">
   <div class="ui segment">
     <img src={{objMovie.url}}>
     </div>
     <div class="ui segment">
-      <p>Movie Content</p>
+      <p>Movie Content of {{objMovie.name}}</p>
     </div>
     <div class="ui segment">
       <table class="ui stripped table">
@@ -16,23 +17,48 @@
         <tbody id="bodyt">
           <tr ng-repeat="val in res track by $index">
             <td>User : {{val.userName}}</td>
-            <td><textarea disabled="disabled">{{val.strMovieComments}}</textarea></td>
+            <td><textarea disabled="disabled" rows="2">{{val.strMovieComments}}</textarea></td>
             <td>Rating : {{val.numMovieRating}}/5</td>
           </tr>
         </tbody>
       </table>
+      <form class="ui form">
+        <div class="fields">
+          <div class="three wide field">
+            <label><var>User Name</var></label>
+            <input type="text" ng-model="strUserName">
+          </div>
+          <div class="five wide field">
+            <label><var>Comment</var></label>
+            <textarea ng-model="strComments" rows="2"></textarea>
+          </div>
+          <div class="field"></div>
+          <div class="two fields">
+            <div class="field">
+              <label><var>Rating</var></label>
+              <div class="ui rating" data-max-rating="5" id="rate"></div>
+            </div>
+          </div>
+          <div class="field"></div>
+          <div class="two field">
+            <button class="ui blue basic button" ng-click="save()">comment</button>
+          </div>
+        </div>
+      </form>
+<!--
       Enter Your Name :
       <div class="ui row">
         <input type="text" ng-model="strUserName">
       </div>
       <div class="ui row">
-        <textarea ng-model="strComments"></textarea>
+        <textarea ng-model="strComments" rows="2" cols="50"></textarea>
         <button class = "ui floated button" ng-click="save()">comment</button>
       </div>
       Your Rating :
       <div class="ui row">
         <div class="ui rating" data-max-rating="5" id="rate"></div>
       </div>
+-->
     </div>
   </div>
   <toaster-container></toaster-container>
